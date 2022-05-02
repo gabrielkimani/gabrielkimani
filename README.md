@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kimani Gabriel</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-
-
-### <div align="center">I'm Gabriel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [React Mpesa](https://github.com/gabrielkimani/react-mpesa)  
